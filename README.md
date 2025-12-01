@@ -37,7 +37,7 @@ Each session is **1.5 hours**, focused, hands-on, and tailored for higher educat
 ### Hands-On Activities
 - Create & push to a GitHub repository
 - Run your first OpenAI API call using Python
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxWRIiN-PmWgW11PKbgukzLmlIRxSZis)
+-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cxWRIiN-PmWgW11PKbgukzLmlIRxSZis)
 - 
 - Develop 3 optimized academic prompts  
 - Build a working “Research GPT”  
